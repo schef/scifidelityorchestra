@@ -1,6 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'jekyll-minibundle'
-gem 'coderay'
-gem 'rake'
+gem "jekyll", "~> 3.0"
+gem "jekyll-sitemap"
+gem "octopress"
+gem "jekyll-paginate"
+gem "jekyll-gist"
