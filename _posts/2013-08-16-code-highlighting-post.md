@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: Our first wedding
 description: "Demo post displaying the various ways of highlighting code in Markdown."
 modified: 2016-02-01
 tags: [sample post, code, highlighting]
