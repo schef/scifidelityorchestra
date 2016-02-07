@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="//schef.github.io/scifidelityorchestra/feed.xml" />
 <link rel="alternate" type="text/html" href="//schef.github.io/scifidelityorchestra" />
-<updated>2016-02-07T18:34:26+01:00</updated>
+<updated>2016-02-07T18:58:45+01:00</updated>
 <id>//schef.github.io/scifidelityorchestra/</id>
 <author>
   <name>David Lucas Burge</name>
@@ -35,6 +35,21 @@
 &lt;p&gt;E baš me zanima dali budu note OK zgledale..&lt;/p&gt;
 
 &lt;p&gt;you can &lt;a href=&quot;//schef.github.io/scifidelityorchestra/assets/betsy.pdf&quot;&gt;get the PDF&lt;/a&gt; directly.&lt;/p&gt;
+
+&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
+
+&lt;figure&gt;
+    
+    &lt;a href=&quot;/images/IMAG1159.jpg&quot;&gt;&lt;img src=&quot;/images/IMAG1159.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Test images&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 
     &lt;p&gt;&lt;a href=&quot;//schef.github.io/scifidelityorchestra/graz/&quot;&gt;Opening party at Spleen, Graz&lt;/a&gt; was originally published by David Lucas Burge at &lt;a href=&quot;//schef.github.io/scifidelityorchestra&quot;&gt;Scifidelity Orchestra&lt;/a&gt; on February 07, 2016.&lt;/p&gt;
   </content>
