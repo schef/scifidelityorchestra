@@ -2,7 +2,7 @@
 title: Scifidelity Orchestra
 description: Band you would dreame to have!
 #url: http://taylantatli.me/Halve
-url: http://www.scifidelityorchestra.com
+baseurl: http://www.scifidelityorchestra.com
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -17,6 +17,7 @@ permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
+  input: GFM
   auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
@@ -60,6 +61,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - github-pages
 
 # Exclude list
 include: [_pages]
